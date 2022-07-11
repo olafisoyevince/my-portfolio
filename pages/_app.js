@@ -1,7 +1,6 @@
 import Layout from "../component/Layout";
 import "../styles/globals.css";
 import ReactDOM from "react-dom";
-// import "../node_modules/@fortawesome/fontawesome-svg-core/styles.css";
 import "@fortawesome/fontawesome-svg-core/styles.css";
 import { config } from "@fortawesome/fontawesome-svg-core";
 
