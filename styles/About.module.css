@@ -1,6 +1,7 @@
 .aboutContainer {
   width: min(90%, 70.5rem);
   margin-inline: auto;
+  margin-top: 30px;
 }
 
 .skillsTitle {

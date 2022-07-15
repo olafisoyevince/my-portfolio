@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&family=Space+Mono:wght@400;700&display=swap");
-/* @import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100;200;300;400;500;600;700&display=swap"); */
 
 * {
   margin: 0;
@@ -20,7 +19,6 @@ body {
   color: #094067;
   background: #fffffe;
   font-family: "Space Mono", monospace;
-  /* font-family: "Roboto Mono", monospace; */
 }
 
 .footer {
@@ -28,4 +26,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.home-spacer {
+  margin-bottom: 100px;
 }
